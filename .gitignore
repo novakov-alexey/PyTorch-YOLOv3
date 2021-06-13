@@ -16,3 +16,4 @@ checkpoints
 logs/
 coco/
 coco
+.idea
